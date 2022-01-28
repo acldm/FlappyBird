@@ -16,3 +16,5 @@
 ## 更多
 
 * QFramework 地址: https://github.com/liangxiegame/qframework
+* 国内镜像（gitee）地址：https://gitee.com/liangxiegame/FlappyBird
+* github 地址：https://github.com/liangxiegame/FlappyBird
